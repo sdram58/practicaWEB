@@ -20,5 +20,9 @@ export class LoginPage {
   ionViewDidLoad() {
     console.log('ionViewDidLoad LoginPage');
   }
+    
+  login(){
+      console.log("entra");
+  }
 
 }
